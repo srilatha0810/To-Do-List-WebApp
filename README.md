@@ -8,3 +8,24 @@ editing and removing them and finally crossing them off when complete.
 I used the technologies of (Hyper Text Mark-up Language) HTML and (Cascading Style
 Sheets) CSS as the front-end of my web application, while utilizing Bootstrap as the frontend’s framework and connected the Django Web Framework through Python for the backend.
 
+## Sources
+* https://www.python.org/downloads/
+* https://docs.djangoproject.com/en/3.1/topics/install/
+* https://getbootstrap.com/
+* https://code.visualstudio.com/
+
+## Prerequisites 
+You need to have installed the following softwares (of latest versions) in your machine before running this project.
+1. Python:  <br/>
+2. Django:   <br/>
+3. Virtual Environment <br/>
+4. Pip <br/>
+5. Bootstrap <br/>
+6. Micrsoft Visual Studio Code
+
+## Built Using
+* Back-end: Python, Django
+* Front-end: HTML, CSS, Javascript, Bootstrap4 
+* Editor: Microsoft Visual Studio Code
+
+
