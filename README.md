@@ -29,5 +29,6 @@ You need to have installed the following softwares (of latest versions) in your 
 * Front-end: HTML, CSS, Javascript, Bootstrap4 
 * Editor: Microsoft Visual Studio Code
 
-
+<br/>
+<br/>
 #### Thank you for visiting my repository.
