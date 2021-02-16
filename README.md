@@ -10,6 +10,7 @@ Sheets) CSS as the front-end of my web application, while utilizing Bootstrap as
 
 ## Sources
 * https://www.python.org/downloads/
+* https://docs.python.org/3/
 * https://docs.djangoproject.com/en/3.1/topics/install/
 * https://getbootstrap.com/
 * https://code.visualstudio.com/
